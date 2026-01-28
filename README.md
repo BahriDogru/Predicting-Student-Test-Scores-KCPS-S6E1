@@ -65,7 +65,7 @@ To run this project on your local machine, follow these steps:
     ```bash
     git clone https://github.com/BahriDogru/Predict_Student_Test_Score.git
 
-    cd YOUR_REPO_NAME
+    cd Predicting-Student-Test-Scores-KCPS-S6E1
     ```
 2.  **Install Required Libraries (using Conda environment):**:
     ```bash
